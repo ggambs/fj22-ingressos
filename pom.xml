@@ -9,6 +9,13 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
+	<developers>
+		<developer>
+		<name>Gabriel Gambarini</name>
+		<email>ggambarini22@hotmail.com</email>
+		</developer>
+	</developers>
+
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
