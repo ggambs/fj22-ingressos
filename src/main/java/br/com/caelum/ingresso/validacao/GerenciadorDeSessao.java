@@ -5,7 +5,6 @@ import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Optional;
 
-import org.springframework.security.web.authentication.session.SessionAuthenticationException;
 
 import br.com.caelum.ingresso.model.Sessao;
 

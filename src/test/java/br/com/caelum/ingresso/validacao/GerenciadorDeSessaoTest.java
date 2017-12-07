@@ -1,6 +1,5 @@
 package br.com.caelum.ingresso.validacao;
 
-import java.sql.Array;
 import java.time.Duration;
 import java.time.LocalTime;
 import java.util.Arrays;
